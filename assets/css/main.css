@@ -3527,21 +3527,21 @@
 				}
 
 					#nav ul.links li a:hover {
-						color: inherit !important;
+						color: #18bfef !important;
 						background-color: rgba(255, 255, 255, 0.1);
 					}
 
-				#nav ul.links li.active {
+				/* #nav ul.links li.active {
 					background-color: #ffffff;
-				}
+				} */
 
-					#nav ul.links li.active a {
+					/* #nav ul.links li.active a {
 						color: #1e252d;
-					}
+					} */
 
-						#nav ul.links li.active a:hover {
+						/* #nav ul.links li.active a:hover {
 							color: #18bfef !important;
-						}
+						} */
 
 		#nav ul.icons {
 			-moz-flex-grow: 0;
